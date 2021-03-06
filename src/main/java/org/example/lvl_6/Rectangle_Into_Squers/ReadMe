@@ -1,0 +1,9 @@
+Can you translate this drawing into an algorithm?
+
+You will be given two dimensions
+
+    a positive integer length (parameter named lng)
+    a positive integer width (parameter named wdth)
+
+You will return a collection or a string (depending on the language;
+ Shell bash, PowerShell, Pascal and Fortran return a string) with the size of each of the squares.
